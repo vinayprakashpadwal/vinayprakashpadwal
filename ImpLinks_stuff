@@ -18,3 +18,27 @@ Campus X
 Rishabh Mishra
 codebasics (etc)
 -----------------------
+Key Data Concepts Every Data Professional Should Master
+
+From Data Cleaning and Data Modeling to Data Security and Data Visualization, this  explores critical concepts that will enhance your proficiency in the data field. 🚀🔍
+
+
+🚀Database
+
+An organised collection of structured data stored and accessed electronically,typically using DBMS.
+
+🚀Data Lake
+
+A storage repository that holds a vast amounts of raw,unprocessed data in its native format until needed for analysis.
+
+🚀Data Warehouse
+
+A Central repository that stores integrated, historical data from various sources for business analysis and reporting.
+
+🚀Data Cleansing
+
+Involves Identifying and correcting errors, inconsistencies and inaccuracies in datasets.
+
+🚀Data Modelling
+
+Process of Creating abstract representations of the structure, relationships and constraints of the data to facilitate better understanding,organization and management of information.📊 Follow Infinite Data for more interesting content on data! 
