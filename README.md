@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinayprakashpadwal
 - 👀 I’m interested in Data Science, Business Intelligence and Artificial Intelligence
-- 🌱 I’m have currently learned and further studying Data Analytics tools and techniques to torture data
+- 🌱 I’m have learned and further studying Data Analytics tools and techniques to torture data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : https://www.linkedin.com/in/vinay-prakash-padwal/
 - ⚡ Fun fact: Aajao kabhi Github pe
