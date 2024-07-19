@@ -1,0 +1,82 @@
+Course Overview
+This introductory course is designed for those interested in business intelligence (BI) and aiming to make a career in this field, starting as a BI analyst.
+
+This course provides a comprehensive introduction to business intelligence (BI), describing key concepts, components, methodologies, and the benefits and challenges of implementing BI solutions. It also discusses various career opportunities and roles in the BI arena and the required skills and qualifications. Further, you will gain insight into the data ecosystem, different data repositories, and the extract, transform, and load (ETL) process. Additionally, you will be introduced to big data characteristics, popular processing tools, and various data integration platforms. The course then explores the ecosystem of BI analysts and the types of analytics, such as descriptive, diagnostic, predictive, and prescriptive analytics, BI components, tools, and technologies. You will learn to utilize various analytical tools and techniques, apply data visualization methods, and assess various tools based on their characteristics and applications. 
+
+The course offers practical exposure with hands-on activities and a final project that enables you to apply your knowledge in real-world scenarios.
+
+After completing this course, you will be able to:
+
+Explain the concept of business intelligence (BI), the key components and challenges involved, and the career options in this field.
+
+Describe data analytics and its significance in BI, recognizing its role in extracting insights from data.
+
+Evaluate different business intelligence tools and technologies used to analyze the business context and requirements of a BI project.
+
+Develop actionable insights from data using appropriate tools and techniques for data gathering, wrangling, analyzing, mining, and visualizing.
+
+Course Content
+
+This course is divided into six modules. It is recommended that you complete one module per week.
+
+Week 1, Module 1: Introduction to Business Intelligence (BI)
+
+This module introduces you to the field of business intelligence (BI). You will gain insight into the key concepts of BI and understand its importance in modern business operations. You will explore the benefits and challenges of implementing BI solutions through various examples. You will also gain insight into how BI, data analytics, data science, and data engineering are different. Additionally, you will learn about the career opportunities and roles in BI and the skills and qualifications to develop a successful career in the BI field. By the end of the module, you will have a fundamental foundation in BI and be able to apply your knowledge to understand its significance in real-world business scenarios.
+
+Week 2, Module 2: The Data Ecosystem
+
+In this module, you will learn about the different types of data structures, file formats, sources of data, and the languages data professionals use in their day-to-day tasks. You will gain insight into various types of data repositories, such as databases, data warehouses, data marts, data lakes, and data pipelines. In addition, you will learn about the extract, transform, and load (ETL) process, which is used to extract, transform, and load data into data repositories. Finally, the module also provides an overview of big data and big data processing tools such as Apache Hadoop, Hadoop Distributed File System (HDFS), Hive, and Spark.
+
+Week 3, Module 3: BI Analytics Landscape
+
+In this module, you will attempt a graded quiz to test and reinforce your understanding of the concepts covered in the course. The module also includes a glossary to enhance your comprehension of generative AI-related terms. Finally, this module will guide you toward the next steps in your learning journey.  
+
+Week 4, Module 4: Gathering and Wrangling Data
+
+In this module, you will learn how to identify, gather, and import data from disparate sources. You will learn about the tasks involved in wrangling and cleaning data to prepare it for analysis. In addition, you will learn about different tools that can be used for gathering, importing, wrangling, and cleaning data, along with some of their characteristics, strengths, limitations, and applications.
+
+Week 5, Module 5: Mining and Visualizing Data and Communicating Results
+
+In this module, you will learn about the role of statistical analysis in mining and visualizing data. You will also be introduced to various statistical and analytical tools and techniques that can be used to gain a deeper understanding of your data. These tools help you analyze the patterns, trends, and correlations in data. Additionally, you will learn about various types of data visualizations to communicate and tell a compelling story and different tools that can be used for mining and visualizing data, along with some of their characteristics, strengths, limitations, and applications. Finally, the module delves into how you can effectively present the BI insights you have gained.
+
+Week 6, Module 6: BI Techniques and Final Project
+
+In this module, you will identify and apply the right BI techniques and tools to various real-world business scenarios and develop a comprehensive BI project. You will also gain the opportunity to apply your acquired knowledge and skills in a hands-on assignment. 
+
+Learning Resources
+
+The course offers a variety of learning assets: Videos, readings, hands-on activities and labs, expert viewpoints, discussion prompts, and quizzes.
+
+The videos and readings present the instruction, supported by activities and labs providing hands-on learning experiences. 
+
+“Expert Viewpoints” videos provide points of view from practitioners in the field to exhibit the real-world application of skills learned in this course. 
+
+Interactive learning is encouraged through discussions where you can meet your staff and peers.
+
+Practice quizzes, at the end of each module, test your understanding of what you learned, and the final graded quiz will assess your conceptual understanding of the course.
+
+Who should take this course?
+
+This specialized program is tailored for individuals interested in pursuing a career as a BI analyst. 
+
+This course is for you if you are:
+
+An individual seeking an introduction to business intelligence and its tools and technologies 
+
+A professional who wants to improve their work by leveraging the power of BI and expanding their skill set
+
+A manager or executive who wants to explore the use of BI tools or technologies in their organization 
+
+A student who wishes to gain knowledge and skills about BI to enhance their job readiness as a BI analyst
+
+An IT or analytics professional who wants to transition from some other data specialization into BI
+
+Recommended Background
+
+This course is relevant for anyone interested in exploring the field of business intelligence and does not require any specific prerequisites or experience in data analysis or related fields.
+
+The course uses simple, easy-to-understand language to explain the important concepts of BI without relying on technical jargon. The hands-on lab and activities don’t require any programming experience. Additionally, no specific education degree is required.
+
+To derive maximum learning from this course, you only require active participation in and completion of the various learning engagements offered across the modules.
+
+Good luck
